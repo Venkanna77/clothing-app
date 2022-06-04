@@ -1,11 +1,7 @@
 body {
   margin: 0;
   font-family: 'Calligraffitti', cursive;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Dosis', sans-serif;
 }
 
 a{
